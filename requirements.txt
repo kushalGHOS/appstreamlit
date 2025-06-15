@@ -1,4 +1,4 @@
-tensorflow==2.19.0
+tensorflow
 opencv-python
 streamlit
 gtts
