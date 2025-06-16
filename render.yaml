@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: isl-gesture-recognition
-    env: docker
-    plan: free
-
